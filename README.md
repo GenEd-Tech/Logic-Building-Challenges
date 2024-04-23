@@ -29,3 +29,9 @@ Part 2:
 Implement a simple encryption and decryption algorithm using a chosen method
 
 Solution: https://youtu.be/S85UBnSW6fA
+
+## Challenge 5: 
+
+Write a program for calculating sum of parallel resistors with user input
+
+Solution: [https://youtu.be/hDSbpCGNIKo](https://youtu.be/QjwCNqm3iyU)
