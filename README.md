@@ -35,3 +35,10 @@ Solution: https://youtu.be/S85UBnSW6fA
 Write a program for calculating sum of parallel resistors with user input
 
 Solution: [https://youtu.be/hDSbpCGNIKo](https://youtu.be/QjwCNqm3iyU)
+
+
+## Challenge 6: 
+
+Write a program to guess a randomly generated number.
+
+Solution: https://youtu.be/KgRYkBBstPY
